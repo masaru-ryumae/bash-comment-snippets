@@ -3,9 +3,9 @@
 #!/bin/bash
 #===============================================================================
 #
-#          FILE:  test.sh
+#          FILE:  ${1:test}.sh
 #
-#         USAGE:  ./test.sh
+#         USAGE:  ./${2:test}.sh
 #
 #   DESCRIPTION:
 #
