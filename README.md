@@ -1,0 +1,1 @@
+This folder contains bash related comment snippets for detailed commenting.
